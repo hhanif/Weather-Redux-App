@@ -1,3 +1,9 @@
+This weather web application was created using React and Redux. The application was created for the course:
+Modern React with Redux: https://www.udemy.com/react-redux/learn/v4/overview
+
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
