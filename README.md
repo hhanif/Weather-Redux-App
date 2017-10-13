@@ -1,8 +1,7 @@
 This weather web application was created using React and Redux. The application was created for the course:
 Modern React with Redux: https://www.udemy.com/react-redux/learn/v4/overview
 
-https://raw.github.com/hhanif/Weather-Redux-App/master/Weather.png
-
+![Alt text](/Weather.png?raw=true "Optional Title")
 
 # ReduxSimpleStarter
 
